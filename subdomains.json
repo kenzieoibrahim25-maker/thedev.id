@@ -1,5 +1,7 @@
 {
-  "elscratcher": "ghs.googlehosted.com"
+  "elscratcher": {
+    "CNAME": "ghs.googlehosted.com",
+    "TXT": "google-site-verification=AdybjmO6UKypfU-N_xgOk0uP_zPJxZAyGZ5Wgfe5x0Y"
   "1minus4": "1minus4.github.io",
   "a2a": "aykuttasil.github.io",
   "aalfiann": "aalfiann.github.io",
